@@ -9,7 +9,7 @@ import java.sql.Statement;
 import java.util.ArrayList;
 
 public class Baza {
-	/*public static void main( String args[] ) {
+	/*testpublic static void main( String args[] ) {
 	      Connection c = null;
 	      
 	      try {
